@@ -11,7 +11,17 @@
       "Bash(npx --yes puppeteer --version)",
       "Read(//c/Program Files/Google/Chrome/Application/**)",
       "Read(//c/Program Files \\(x86\\)/Google/Chrome/Application/**)",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(git commit -m 'Initial commit: 域流 DomainFlow MVP *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Read(//d/workspace/cc_works/**)",
+      "Bash(mv \"clear_stream\" \"DomainFlow\")",
+      "Bash(powershell *)",
+      "Bash(taskkill //F //IM node.exe)",
+      "Bash(cmd.exe *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }
